@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="github_banner.png" alt="Kidron Leip's banner"/>
 
-<h2 align="center"><img src="floral_swirl_ornament_1.svg" alt="Floral swirl ornament icon"/>Hello!</h2>
+<h2 align="center"><img src="floral_swirl_ornament_1.svg" width="25px" alt="Floral swirl ornament icon"/> Hello!</h2>
 
 <h2 align="center">Skills & Tools</h2>
 
