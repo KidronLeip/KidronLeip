@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 
 <h2 align="center" alt="Hello!"><img src="floral_swirl_ornament_1_left.svg" width="30px" alt="Floral swirl ornament icon"/> 𝐻𝑒𝓁𝓁𝑜! <img src="floral_swirl_ornament_1_right.svg" width="30px" alt="Floral swirl ornament icon"/></h2>
   <img src="about_photo.jpg" align="right" width="350px" style="margin-left: 20px;" alt="Pink painting of a cat."/>
-<p>Hello! My name's Kidron, and I'm a web designer and developer with a background <br/> in graphic design, where I care just as much about how something looks as how it works. Outside of the browser, I love to draw, follow the cosmetics world closer than I should, <br> and I'm probably rewatching Deep Space Nine for the seventh time right now. 🖖</p>
+  <p>Hello! My name's Kidron, and I'm a web designer and developer with a background <br/> in graphic design, where I care just as much about how something looks as how it works. Outside of the browser, I love to draw, follow the cosmetics world closer than I should, <br> and I'm probably rewatching Deep Space Nine for the seventh time right now. 🖖</p>
 
-<br/>
-
-<p>
-  🎓 <b>Graduating from Arizona State University May 2026</b>
   <br/>
-  💼 <b>Seeking entry-level & internship roles in web design, UI/UX, or front-end dev</b>
-</p>
-<br clear="right"/>
+
+  <p>
+    🎓 <b>Graduating from Arizona State University May 2026</b>
+    <br/>
+    💼 <b>Seeking entry-level & internship roles in web design, UI/UX, or front-end dev</b>
+  </p>
+  <br clear="right"/>
 
 <br/>
 <br/>
@@ -65,7 +65,10 @@ Here are some ideas to get you started:
 <br/>
 
 <h2 align="center" alt="Contact"><img src="floral_swirl_ornament_4_left.svg" width="25px" alt="Floral swirl ornament icon"/> 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 <img src="floral_swirl_ornament_4_right.svg" width="25px" alt="Floral swirl ornament icon"/></h2>
+  <img src="contact_photo.jpg" align="left" width="350px" style="margin-right: 20px;" alt="Pink painting of two doves."/>
   <div align="center">
+    <p>Feel free to reach out! I'd love to chat. 💗</p>
+    <br/>
     <a href="mailto:KidronLeip@gmail.com"><img src="https://img.shields.io/badge/Gmail-3F4D58?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://www.linkedin.com/in/kidron-leip/"><img src="https://img.shields.io/badge/LinkedIn-3F4D58?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/kidronleip/"><img src="https://img.shields.io/badge/Instagram-3F4D58?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
