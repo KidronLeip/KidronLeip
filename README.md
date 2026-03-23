@@ -17,14 +17,25 @@ Here are some ideas to get you started:
 
 <img src="github_banner.png" alt="Kidron Leip's banner"/>
 
-<br>
+> **"Tʜᴇ ᴛʀᴜᴛʜ ɪs ᴜsᴜᴀʟʟʏ ᴊᴜsᴛ ᴀɴ ᴇxᴄᴜsᴇ ғᴏʀ ᴀ ʟᴀᴄᴋ ᴏғ ɪᴍᴀɢɪɴᴀᴛɪᴏɴ."** _— Eʟɪᴍ Gᴀʀᴀᴋ_
+
+<br/>
 
 <h2 align="center" alt="Hello!"><img src="floral_swirl_ornament_1_left.svg" width="30px" alt="Floral swirl ornament icon"/> 𝐻𝑒𝓁𝓁𝑜! <img src="floral_swirl_ornament_1_right.svg" width="30px" alt="Floral swirl ornament icon"/></h2>
-  <p>Hi! My name is .</p>
-  <img src="about_photo.png" align="right" alt="Pink painting of a cat."/>
-  
+  <img src="about_photo.jpg" align="right" width="350px" style="margin-left: 20px;" alt="Pink painting of a cat."/>
+<p>Hello! My name's Kidron, and I'm a web designer and developer with a background <br/> in graphic design, where I care just as much about how something looks as how it works. Outside of the browser, I love to draw, follow the cosmetics world closer than I should, <br> and I'm probably rewatching Deep Space Nine for the seventh time right now. 🖖</p>
 
-<br>
+<br/>
+
+<p>
+  🎓 <b>Graduating from Arizona State University May 2026</b>
+  <br/>
+  💼 <b>Seeking entry-level & internship roles in web design, UI/UX, or front-end dev</b>
+</p>
+<br clear="right"/>
+
+<br/>
+<br/>
 
 <h2 align="center" alt="Skills & Tools"><img src="floral_swirl_ornament_2_left.svg" width="30px" alt="Floral swirl ornament icon"/> 𝒮𝓀𝒾𝓁𝓁𝓈 & 𝒯𝑜𝑜𝓁𝓈 <img src="floral_swirl_ornament_2_right.svg" width="30px" alt="Floral swirl ornament icon"/></h2>
   <div align="center">
@@ -45,11 +56,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-3F4D58?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   </div>
 
-<br>
+<br/>
+<br/>
 
 <h2 align="center" alt="Projects"><img src="floral_swirl_ornament_3_left.svg" width="25px" alt="Floral swirl ornament icon"/> 𝒫𝓇𝑜𝒿𝑒𝒸𝓉𝓈 <img src="floral_swirl_ornament_3_right.svg" width="25px" alt="Floral swirl ornament icon"/></h2>
 
-<br>
+<br/>
+<br/>
 
 <h2 align="center" alt="Contact"><img src="floral_swirl_ornament_4_left.svg" width="25px" alt="Floral swirl ornament icon"/> 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 <img src="floral_swirl_ornament_4_right.svg" width="25px" alt="Floral swirl ornament icon"/></h2>
   <div align="center">
