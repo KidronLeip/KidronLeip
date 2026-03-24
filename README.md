@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h2 align="center" alt="Hello!"><img src="floral_swirl_ornament_1_left.svg" width="30px" alt="Floral swirl ornament icon"/> 𝐻𝑒𝓁𝓁𝑜! <img src="floral_swirl_ornament_1_right.svg" width="30px" alt="Floral swirl ornament icon"/></h2>
   <img src="about_photo.jpg" align="right" width="350px" style="margin-left: 20px;" alt="Pink painting of a cat."/>
-  <p>Hello! My name's Kidron, and I'm a web designer and developer with a background <br/> in graphic design, where I care just as much about how something looks as how it works. Outside of the browser, I love to draw, follow the cosmetics world closer than I should, <br> and I'm probably rewatching Deep Space Nine for the seventh time right now. 🖖</p>
+  <p>Hello! My name's Kidron, and I'm a web designer and developer with a background in graphic design, where I care just as much about how something looks as how it works. Outside of the browser, I love to draw, follow the cosmetics world closer than I should, and I'm probably rewatching Deep Space Nine for the seventh time right now. 🖖</p>
 
   <br/>
 
